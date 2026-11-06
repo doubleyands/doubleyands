@@ -17,5 +17,4 @@ I work on neural-network methods for solving partial differential equations.
 #### On the blog
 
 - [Flow past a cylinder](https://doubleyands.github.io/): my lattice Boltzmann simulation of the DFG 2D-2 benchmark (Re = 100), played as you scroll
-- [Watch a network learn physics](https://doubleyands.github.io/about/): a PINN learning Burgers' equation, step by step
 - [Numerical analysis notes](https://doubleyands.github.io/projects/numerical-analysis/): root finding, convergence and more, each with a small experiment

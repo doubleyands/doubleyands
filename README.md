@@ -10,7 +10,7 @@ I work on neural-network methods for solving partial differential equations.
 #### Publications
 
 - **Physics-Informed Perceiver IO: scalable mesh-free solving of partial differential equations without supervision**<br>
-  Y. Yang, E. Lee · *Journal of Computational Physics*, 2026 · [DOI](https://doi.org/10.1016/j.jcp.2026.115455)
+  Y. Yang, E. Lee · *Journal of Computational Physics* 569 (2027) 115455 · [DOI](https://doi.org/10.1016/j.jcp.2026.115455)
 - **A new strategy for physics-informed neural networks based on hierarchical collocation point refinement**<br>
   M. Choi, D. Shin, Y. Yang, E. Lee · arXiv preprint, 2026 · [arXiv](https://arxiv.org/abs/2607.14665)
 
